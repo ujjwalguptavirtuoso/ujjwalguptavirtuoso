@@ -25,7 +25,7 @@ Here are some of my recent and noteworthy projects:
 
 ## Connect with Me
 
-I'm always open to collaboration and conversation. Feel free to reach out to me for discussions, contributions, or just to say hi! Let's connect and make the world of software development more exciting together.
+I'm always open to collaboration, opportunities and conversation. Feel free to reach out to me for discussions, contributions, or just to say hi!
 
 [![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)](https://github.com/yourusername)
 
