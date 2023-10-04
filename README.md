@@ -20,7 +20,7 @@ Here are some of my recent and noteworthy projects:
    - Users will be able to see the blog posts of others and like and comment on them
 
 4. **Research Papers**
-   - Here you can find some of my **submitted papers** to various conferences and journels.
+   - Here you can find some of my **submitted papers** to various conferences and journals.
 
 
 ## Connect with Me
