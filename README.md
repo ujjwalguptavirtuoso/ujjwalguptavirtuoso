@@ -2,7 +2,7 @@
 
 I'm a **senior software engineer** at **Walmart Labs**, passionate about building innovative software solutions. As an alumnus of **IIT Roorkee**, I bring a strong foundation in computer science and a passion for solving complex problems.
 
-On my profile, you'll find a collection of my **complete** and **in-progress** projects. These projects showcase my skills, creativity, and dedication to the world of software development.
+On my profile, you'll find a collection of my **complete** and **in-progress** projects. These projects showcase my skills, creativity, and dedication to the world of software development and research.
 
 ## Projects 🔥
 
@@ -10,8 +10,7 @@ Here are some of my recent and noteworthy projects:
 
 1. **YouTube Question Answering App**
    - 📚 Collaborated with **Dr. Joy Arulraj** at **Georgia Tech**
-   - 🧠 Developed an app to intelligently answer questions from YouTube videos
-   - 💡 Pushing the boundaries of natural language understanding
+   - 🧠 Developed an app to intelligently answer questions from YouTube videos using EvaDB and generative transformer libraries.
 
 2. **Amazon Scraper**
    - Web-scraper code to pull title, price, rating, reviews, availability of different products based on user-based search
