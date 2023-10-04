@@ -4,7 +4,7 @@ I'm a **senior software engineer** at **Walmart Labs**, passionate about buildin
 
 ## What You'll Find on My Profile
 
-🚀 **Projects**: On my profile, you'll find a collection of my complete and in-progress projects. These projects showcase my skills, creativity, and dedication to the world of software development.
+🚀 **Projects**: On my profile, you'll find a collection of my **complete** and **in-progress** projects. These projects showcase my skills, creativity, and dedication to the world of software development.
 
 ## Projects 🔥
 
