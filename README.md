@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Ujjwal
 
 I'm a senior software engineer at Walmart Labs, passionate about building innovative software solutions. As an alumnus of IIT Roorkee, I bring a strong foundation in computer science and a passion for solving complex problems.
 
