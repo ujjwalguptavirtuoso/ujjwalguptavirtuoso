@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ujjwal
 
-I'm a **senior software engineer** at **Walmart Labs**, passionate about building innovative software solutions. As an alumnus of **IIT Roorkee**, I bring a strong foundation in computer science and a passion for solving complex problems.
+I'm a **senior software engineer** at **Walmart Labs**, passionate about building innovative software projects. As an alumnus of **IIT Roorkee**, I bring a strong foundation in computer science and a passion for solving complex problems.
 
 On my profile, you'll find a collection of my **complete** and **in-progress** projects. These projects showcase my skills, creativity, and dedication to the world of software development and research.
 
@@ -10,7 +10,7 @@ Here are some of my recent and noteworthy projects:
 
 1. **YouTube Question Answering App**
    - 📚 Collaborated with **Dr. Joy Arulraj** at **Georgia Tech**
-   - 🧠 Developed an app to intelligently answer questions from YouTube videos using EvaDB and generative transformer libraries.
+   - 🧠 Developed an app to intelligently answer questions from YouTube videos, storing its transcripts in EvaDB and using generative transformer libraries for question-answering.
 
 2. **Amazon Scraper**
    - Web-scraper code to pull title, price, rating, reviews, availability of different products based on user-based search
