@@ -36,7 +36,7 @@ I'm always open to collaboration and conversation. Feel free to reach out to me 
 
 [![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)](https://github.com/yourusername)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourusername/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ujjwal-gupta-b0422a8b/)
 
 Happy coding! 🚀
 
