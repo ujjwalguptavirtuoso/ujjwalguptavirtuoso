@@ -9,7 +9,7 @@ On my profile, you'll find a collection of my **complete** and **in-progress** p
 Here are some of my recent and noteworthy projects:
 
 1. **YouTube Question Answering App**
-   - 📚 Collaborated with **Dr. Joy Arulraj** at **Georgia Tech**
+   - 📚 Collaborating with **Dr. Joy Arulraj** at **Georgia Tech**
    - 🧠 Developed an app to intelligently answer questions from YouTube videos, storing its transcripts in EvaDB and using generative transformer libraries for question-answering.
 
 2. **Amazon Scraper**
