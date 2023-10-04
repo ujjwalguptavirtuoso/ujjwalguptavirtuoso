@@ -11,19 +11,16 @@ I'm a senior software engineer at Walmart Labs, passionate about building innova
 Here are some of my recent and noteworthy projects:
 
 1. **YouTube Question Answering App**
-   - 📚 Collaborated with Dr. Joy Arulraj at Georgia Tech
+   - 📚 Collaborated with **Dr. Joy Arulraj** at **Georgia Tech**
    - 🧠 Developed an app to intelligently answer questions from YouTube videos
    - 💡 Pushing the boundaries of natural language understanding
 
 2. **Amazon Scraper**
-   - 👥 Collaborative project
-   - 🌐 Built a web scraper for Amazon to gather valuable data
-   - 📊 Extracting insights and trends from the world's largest online marketplace
+   - Web-scraper code to pull title, price, rating, reviews, availability of different products based on user-based search
 
 3. **Python Django Flask Blogging App**
-   - ✍️ Created a robust blogging platform
-   - 🌟 Powered by Python and popular web frameworks
-   - 📝 Sharing thoughts, ideas, and knowledge with the community
+   - This is a blogging web application using the python webapp. Users can post, delete their blogs.
+   - Users will be able to see the blog posts of others and like and comment on them
 
 4. **Research Papers**
    - 📄 Contributed to cutting-edge research
