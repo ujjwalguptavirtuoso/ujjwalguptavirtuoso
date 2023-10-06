@@ -27,8 +27,6 @@ Here are some of my recent and noteworthy projects:
 
 I'm always open to collaboration, opportunities and conversation. Feel free to reach out to me for discussions, contributions, or just to say hi!
 
-[![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)](https://github.com/yourusername)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ujjwal-gupta-b0422a8b/)
 
 Happy coding! 🚀
