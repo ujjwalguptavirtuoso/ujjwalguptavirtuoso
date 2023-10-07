@@ -13,7 +13,7 @@ Here are some of my recent and noteworthy projects:
    - 🧠 Developed an app to intelligently answer questions from YouTube videos, storing its transcripts in EvaDB and using generative transformer libraries for question-answering.
 
 2. **Amazon Scraper**
-   - Web-scraper code to pull title, price, rating, reviews, availability of different products based on user-based search
+   - Web-scraper code to pull title, price, rating, reviews, availability of different products based on user-based search.
 
 3. **Python Django Flask Blogging App**
    - This is a blogging web application using the python webapp. Users can post, delete their blogs.
